@@ -236,7 +236,7 @@ h1{
 .titulo-nosotros{
     width: 30%;
     height: 40%;
-    background-color: white;
+    background-color: #ff1818;
     display: flex;
     justify-content: left;
     overflow-y: hidden;
@@ -247,7 +247,7 @@ h1{
 .titulo-nosotros h2{
     margin-left: 1rem;
     font-weight: bold;
-    color: #412009;
+    color: black;
     overflow: hidden;
     text-transform: uppercase;
 }
@@ -258,7 +258,7 @@ h1{
     overflow-y: hidden;
     margin-top: 2rem;
     overflow: hidden;
-    color: #412009;
+    color: black;
 }
 .second-part{
     width: 70vw;
@@ -268,7 +268,7 @@ h1{
     display: grid;
     grid-template-columns: 0.5fr 0.5fr;
     font-size: 1.5rem;
-    color: #412009;
+    color: black;
 }
 .servicios{
     width: 100vw;
@@ -281,7 +281,7 @@ h1{
 .servicios h2{
     margin-left: 1rem;
     font-weight: bold;
-    color: #412009;
+    color: black;
     overflow: hidden;
     text-transform: uppercase;
 }
@@ -339,7 +339,7 @@ h1{
 .titulo h3{
     overflow: hidden;
     margin-bottom: 0;
-    color: #412009;
+    color: black;
     font-weight: bold;
 }
 .titulo p{
@@ -347,7 +347,7 @@ h1{
     font-weight: bold;
     font-size: 1.2rem;
     margin-bottom: 0;
-    background-color: #EBD481;
+    background-color: red;
     padding: 2px 10px;
     border-radius: 2rem;
 }
@@ -405,7 +405,7 @@ h1{
 .title-app h2{
     margin-left: 1rem;
     font-weight: bold;
-    color: #412009;
+    color: black;
     overflow: hidden;
     text-transform: uppercase;
     margin-bottom: 0;
@@ -427,7 +427,7 @@ h1{
     flex-direction: column;
     align-items: center;
     
-    box-shadow: 10px 10px #EBD481 ;
+    box-shadow: 10px 10px #db1718 ;
 }
 .ios button,.android button{
     width: 30%;
@@ -468,7 +468,7 @@ h1{
     margin: auto;
     width: 50vw;
     height: 80vh;
-    background-color:#EBD481;
+    background-color:#ff1818;
     z-index: 2;
     border-radius: 2rem;
     display: none;
@@ -567,7 +567,7 @@ h1{
 }
 
 .mensaje h3,.content-mapa h3{
-    color: #412009;
+    color: black;
     font-weight: bold;
     margin-bottom: 0;
 
@@ -613,7 +613,7 @@ h1{
 }
 .mensaje-cont button{
     width: 30%;
-    background-color: #EBD481;
+    background-color: #f3171a;
     font-weight: bold;
     align-self: flex-end;
     overflow: hidden;
@@ -625,7 +625,7 @@ h1{
     width: 100%;
 }
 .line-cont-map{
-    background-color: #412009;
+    background-color: red;
     width: 30%;
     height: 4px;
     border-radius: 2rem;
@@ -671,7 +671,7 @@ h1{
 .footer{
     width: 100vw;
     height: 250px;
-    background-color: #EBD481;
+    background-color: white;
     display: flex;
     justify-content: center;
 }
@@ -1147,7 +1147,7 @@ h1{
         background-color: white;
         display: none;
         top: 90px;
-        color: #412009;
+        color: #ff1818;
         height: 0px;
         font-weight: bold;
         overflow: hidden;
