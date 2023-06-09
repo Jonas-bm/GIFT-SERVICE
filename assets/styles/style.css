@@ -229,7 +229,7 @@ h1{
     display: flex;
  
     align-items: center;
-    background-image:linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)) ,url('../images/sobrenosotrosimg.jpg') ;
+    background-image:linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)) ,url('../images/sobreNosotros.jpg') ;
     background-position: center;
     background-size: cover;
 }
@@ -296,7 +296,7 @@ h1{
     align-items: center;
 }
 .title-ser{
-    background-color: white;
+    background-color: #ff1818   ;
     width: 30%;
     height: 30%; 
     display: flex;
@@ -394,7 +394,7 @@ h1{
     justify-content: left;
 }
 .title-app{
-    background-color: white;
+    background-color: #ff1818;
     width: 30%;
     height: 30%;
     display: flex;
@@ -526,7 +526,7 @@ h1{
   justify-content: right;
 }
 .main-title{
-    background-color: white;
+    background-color: #ff1818;
     width: 30%;
     height: 30%;
     display: flex;
@@ -536,7 +536,7 @@ h1{
 .main-title h2{
     margin-left: 1rem;
     font-weight: bold;
-    color: #412009;
+    color: black;
     overflow: hidden;
     text-transform: uppercase;
 }
