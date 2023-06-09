@@ -20,10 +20,10 @@ btn_know.addEventListener("click",()=>{
     window.open("")
 })
 btn_prot_ios.addEventListener("click",()=>{
-    window.open("https://www.figma.com/proto/d6WAqznJfusBZr0nt5x0iL/Prototipo(IOS)?scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A344&node-id=1%3A344")
+    window.open("https://www.figma.com/proto/6Ygz29RN9oqIX6CJKSBmMo/ANDROID-VERSION?type=design&node-id=115-3271&scaling=scale-down&page-id=0%3A1&starting-point-node-id=115%3A3271")
 })
 btn_prot_android.addEventListener("click",()=>{
-    window.open("https://www.figma.com/proto/UTOcsXHjgrpB0CgQrGNMD2/Prototipo-(Samsung)?scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A344&node-id=1%3A344")
+    window.open("https://www.figma.com/proto/YmE0YtigekucaNxW3GRwW8/iOS-VERSION?type=design&scaling=scale-down&page-id=0%3A1&starting-point-node-id=115%3A3271&node-id=115-3271 ")
 })
 btn_vermas_android.addEventListener("click",()=>{
     console.log("Hola")
@@ -41,7 +41,7 @@ equis_android.addEventListener("click",()=>{
     video_android.style.display="none";
     video_yt2.remove();
     newvideo=document.createElement('iframe');
-    newvideo.setAttribute("src", "https://www.youtube.com/embed/Wxgpe6djCus");
+    newvideo.setAttribute("src", "https://youtu.be/-FTp1TpY9XE");
     newvideo.setAttribute("id","youtube_player1");
     newvideo.setAttribute("class","frame");
     video_android.appendChild(newvideo)
@@ -54,7 +54,7 @@ equis_ios.addEventListener("click",()=>{
     video_ios.style.display="none";
     video_yt1.remove();
     newvideo=document.createElement('iframe');
-    newvideo.setAttribute("src", "https://www.youtube.com/embed/dgtbuKjgTJk");
+    newvideo.setAttribute("src", "https://youtu.be/S7ca783scPg");
     newvideo.setAttribute("id","youtube_player");
     newvideo.setAttribute("class","frame");
     video_ios.appendChild(newvideo)
