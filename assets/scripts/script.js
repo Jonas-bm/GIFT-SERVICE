@@ -17,7 +17,7 @@ const btn_know=document.getElementById("btn-know")
 
 var appear=false;
 btn_know.addEventListener("click",()=>{
-    window.open("")
+    window.open(" https://youtu.be/3R1A_D8OpTQ")
 })
 btn_prot_ios.addEventListener("click",()=>{
     window.open("https://www.figma.com/proto/6Ygz29RN9oqIX6CJKSBmMo/ANDROID-VERSION?type=design&node-id=115-3271&scaling=scale-down&page-id=0%3A1&starting-point-node-id=115%3A3271")
